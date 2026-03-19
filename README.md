@@ -14,11 +14,11 @@ const fajar = {
   pronouns: "he" | "him",
   code: ["PHP", "JavaScript", "HTML", "CSS", "Python"],
   frameworks: {
-    backend: ["Laravel", "Express.js","Fast API"],
-    frontend: ["React", "Vue", "Tailwind CSS"]
+    backend: ["Laravel", "Express.js"],
+    frontend: ["React","Tailwind CSS"]
   },
-  databases: ["MySQL", "MongoDB", "Firebase"],
-  tools: ["Git", "Docker", "VS Code", "Postman"],
+  databases: ["MySQL"],
+  tools: ["Git", "VS Code", "Postman"],
   currentFocus: "Mastering Full-Stack Development",
   status: "Student & Passionate Developer",
   funFact: "I turn coffee into code ☕"
@@ -34,7 +34,6 @@ const fajar = {
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Express js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![Fast API](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 
 </div>
 
@@ -55,8 +54,6 @@ const fajar = {
 <div align="center">
   
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
@@ -65,7 +62,6 @@ const fajar = {
   
   ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 </div>
@@ -86,7 +82,7 @@ const fajar = {
 ## 🌱 Currently Learning
 
 - 🔭 **Advanced Laravel** (Eloquent, Queues, Events)
-- 🌱 **React Ecosystem** (Next.js, Redux, React Query)
+- 🌱 **React Ecosystem** ( Redux, React Query)
 - 👯 **Microservices Architecture**
 - 🤔 **System Design & Best Practices**
 
@@ -96,9 +92,9 @@ const fajar = {
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Laravel E-Commerce](https://github.com/Fajar-Abay/perak)** | Full-featured online store | Laravel, Alpinejs, MySQL |
-| **[Ekraf Sumedang](https://github.com/Fajar-Abay/ekraf)** | CMS system for organisation from sumedang | Laravel, Mysql, Tailwindcss |
-| **[API Restful Service](https://github.com/Fajar-Abay/)** | REST API with authentication | Laravel, JWT, MySQL |
+| **[E-Agenda SMKN 2 Sumedang](https://github.com/Fajar-Abay/agenda-siswa)** | Full-featured absensi online | Laravel, Alpinejs, MySQL |
+| **[Curhat App SMKN 2 Sumedang](https://github.com/Fajar-Abay/curhatan)** | Chatting app realtime with AI  | Laravel, Mysql, Liveware, Reverb |
+| **[Masjid Baiturrohim](https://github.com/Fajar-Abay/baiturrahim)** | CMS system | Laravel, Breeze, MySQL, Tailwind css |
 
 ## 📈 Contribution Graph
 
@@ -112,10 +108,10 @@ const fajar = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://fajarlab.my.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/debayyy_z)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bayuf21244@gmail.com)
 
 </div>
 
@@ -168,12 +164,6 @@ const fajar = {
 
 </div>
 
-## 🎵 Now Playing
 
-<div align="center">
-
-[![Spotify](https://spotify-readme.vercel.app/api?theme=dark)](https://open.spotify.com/user/your-spotify)
-
-</div>
 
 ---
